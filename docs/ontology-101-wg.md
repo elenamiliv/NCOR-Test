@@ -85,5 +85,10 @@ h1, h2, p, a, li {
   <li><a href="https://drive.google.com/file/d/1zbiutUj43EKNA3IMpMJQUGwSHnKUUuO2/view?usp=sharing"> Septermber 11</a></li>
   <li><a href="https://drive.google.com/file/d/1MpySGd3EJzNffct8rj540jb1UaSyFC1O/view?usp=sharing"> September 18</a></li>
   <li><a href="https://drive.google.com/file/d/1MVVRISebj6IA6ykvLiaf9YCuCEfozyd-/view?usp=share_link"> October 2</a></li>
+  <li><a href="https//drive.google.com/file/d/1DFR2IAoR1QOlARLz3OMIC5JbXzyInsgc/view?usp=share_link"> October 9</a></li>
+  <li><a href="https://drive.google.com/file/d/1klhLlSMRSrba8PmSAhMqm2gJAlg26f71/view?usp=share_link"> October 16</a></li>
+  <li><a href="hhttps://drive.google.com/file/d/1ebVxQrRUiPHEd_Cpn_Hr6yF-Su4l_RTi/view?usp=share_link"> November 4</a></li>
+  <li><a href="https://drive.google.com/file/d/1E-gvRYBc_y-w1GYZEtkOAMvSdkmX5Dzj/view?usp=share_link"> November 16</a></li>
+  <li><a href="https://drive.google.com/file/d/1b-4KVMGJ2oTAwizCNpFQjZXV50VAEnj0/view?usp=share_link"> December 18</a></li>
 </ul>
 
